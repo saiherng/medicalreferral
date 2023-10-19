@@ -1,5 +1,8 @@
 # medicalreferral
 
+View screenshots folder to use UI
+
+
 First Initialization Steps
 --------------------------------------
 1) Create a new database 'saiherng' using phpmyAdmin. 
