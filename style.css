@@ -1,0 +1,38 @@
+section {
+    align-content: center;
+    height: 1000px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom :30px;
+    color: darkblue;
+}
+
+.btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 20px;
+}
+
+.navbar-container {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+a {
+    color : white;
+    text-decoration: none;
+
+}
+
+.medical-background {
+
+    background-image: url(wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}

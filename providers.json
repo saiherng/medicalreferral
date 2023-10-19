@@ -1,0 +1,58 @@
+{
+    "providers": [
+      {
+        "name": "John Smith",
+        "specialty": "General Practitioner",
+        "location": "123 Main St, Anytown, USA",
+        "phone": "555-456-5555",
+        "img_url" : "img/male-doctor.jpg",
+        "city" : "Anaheim",
+        "email": "john.smith@healthcare.com"
+      },
+      {
+        "name": "Jane Doe",
+        "specialty": "Pediatrician",
+        "location": "456 Oak St, Anytown, USA",
+        "phone": "555-222-5555",
+        "img_url" : "img/female-doctor.jpg",
+        "city" : "Fullerton",
+        "email": "jane.doe@healthcare.com"
+      },
+      {
+        "name": "David Lee",
+        "specialty": "Dermatologist",
+        "location": "789 Elm St, Anytown, USA",
+        "phone": "555-745-5555",
+        "img_url" : "img/male-doctor.jpg",
+        "city" : "Anaheim",
+        "email": "david.lee@healthcare.com"
+      },
+      {
+        "name": "Sarah Lee",
+        "specialty": "Dermatologist",
+        "location": "500 Elm St, Anytown, USA",
+        "phone": "111-637-1111",
+        "img_url" : "img/female-doctor.jpg",
+        "city" : "Fullerton",
+        "email": "sarah.lee@healthcare.com"
+      },
+      {
+        "name": "Steven Seagel",
+        "specialty": "General Practitioner",
+        "location": "223 Main St, Anytown, USA",
+        "phone": "555-555-5555",
+        "img_url" : "img/male-doctor2.jpg",
+        "city" : "Fullerton",
+        "email": "steven.seagel@healthcare.com"
+      },
+      {
+        "name": "Tom Cruise",
+        "specialty": "Dentist",
+        "location": "223 Main St, Anytown, USA",
+        "phone": "555-555-5555",
+        "img_url" : "img/male-doctor.jpg",
+        "city" : "Fullerton",
+        "email": "tom.cruise@healthcare.com"
+      }
+    ]
+  }
