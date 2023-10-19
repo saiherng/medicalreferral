@@ -1,4 +1,13 @@
 # medicalreferral
 
+First Initialization Steps
+--------------------------------------
+1) Create a new database 'medical' using phpmyAdmin. 
 
-https://github.com/saiherng/medicalreferral/blob/7e81a60b4a89093e60f6fdd2d48f55a5538d8a42/screenshots/doctor/user%20session%20properly%20created.jpg
+2) Import 'medical.sql' into the database.
+
+3) Copy source_code folder into htdocs of XAMPP.
+
+4) Run XAMPP Apache Server and SQL Server.
+
+5) Navigate to localhost/source_code/index.php  
