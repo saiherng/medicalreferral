@@ -2,9 +2,9 @@
 
 First Initialization Steps
 --------------------------------------
-1) Create a new database 'medical' using phpmyAdmin. 
+1) Create a new database 'saiherng' using phpmyAdmin. 
 
-2) Import 'medical.sql' into the database.
+2) Import 'saiherng.sql' into the database.
 
 3) Copy source_code folder into htdocs of XAMPP.
 
