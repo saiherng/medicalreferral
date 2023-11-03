@@ -2,6 +2,8 @@
 
 View screenshots folder to use UI
 
+![](screenshots/doctor/search_by_speciality_dental.jpg)
+
 
 First Initialization Steps
 --------------------------------------
