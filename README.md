@@ -3,7 +3,7 @@
 View screenshots folder to use UI
 
 ![](screenshots/doctor/search_by_speciality_dental.jpg)
-
+![](screenshots/doctor/received_messages.jpg)
 
 First Initialization Steps
 --------------------------------------
